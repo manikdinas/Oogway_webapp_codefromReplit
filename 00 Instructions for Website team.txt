@@ -1,0 +1,7 @@
+Quick Start Instructions for Your Website Team:
+
+Extract the zip file
+Install dependencies: pip install -r requirements.txt
+Set environment variable: export OPENAI_API_KEY="your_api_key"
+Run the app: python main.py
+Access at: http://localhost:5000
